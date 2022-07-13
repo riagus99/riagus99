@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riagus99
 - 👀 I’m interested in edge computing, SoC, Neuromorphic computing
-- 🌱 I’m currently learning electric circuits, digital logic design, system software
+- 🌱 I’m currently learning VLSI, computer architecture, digital system design, system software
 - 📫 Contact me by E-mail : riagus99@snu.ac.kr
 
 <!---
