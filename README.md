@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riagus99
 - 👀 I’m interested in edge computing, SoC, design automation
-- 🌱 I’m currently learning VLSI, computer architecture, analog/digital circuit
+- 🌱 I’m currently learning VLSI, computer architecture, system software
 - 📫 Contact me by E-mail : riagus99@snu.ac.kr
 
 <!---
